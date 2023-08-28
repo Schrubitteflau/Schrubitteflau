@@ -17,4 +17,6 @@
   <img align="right" alt="Schrubitteflau's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrubitteflau&theme=highcontrast" />
 </details>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Schrubitteflau.Schrubitteflau)
+## Some of my contributions
+
+<a href="https://github.com/carlospolop/PEASS-ng">PEASS-ng  <img src="https://img.shields.io/github/stars/carlospolop/PEASS-ng.svg?style=social&label=Star&maxAge=14400"> </a>
