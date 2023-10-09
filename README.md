@@ -12,10 +12,10 @@
 </p>
 
 <details>
-  <summary>🍿 Stats for boomers</summary>
+  <summary>🍿 Stats for the boomers</summary>
   <img alt="Schrubitteflau's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrubitteflau&theme=highcontrast" />
 </details>
 
-## Some of my contributions 🍟
+## My modest contributions 🍟
 
 - <a href="https://github.com/carlospolop/PEASS-ng">PEASS-ng  <img src="https://img.shields.io/github/stars/carlospolop/PEASS-ng.svg?style=social&label=Star&maxAge=14400"> </a>
