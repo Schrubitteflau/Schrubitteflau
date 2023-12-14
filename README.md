@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p style="display: inline-block;" align="center">
+<!--<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
     <br />
@@ -9,7 +9,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
-</p>
+</p>-->
 
 <details>
   <summary>🍿 Stats for the boomers</summary>
