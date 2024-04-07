@@ -21,3 +21,4 @@
 
 - <a href="https://github.com/carlospolop/PEASS-ng">carlospolop/PEASS-ng  <img src="https://img.shields.io/github/stars/carlospolop/PEASS-ng.svg?style=social&label=Star&maxAge=14400"></a>
 - <a href="https://github.com/foundry-rs/book">foundry-rs/book  <img src="https://img.shields.io/github/stars/foundry-rs/book.svg?style=social&label=Star&maxAge=14400"></a> (fix typo)
+- <a href="https://github.com/DanMcInerney/pymetasploit3">DanMcInerney/pymetasploit3  <img src="https://img.shields.io/github/stars/DanMcInerney/pymetasploit3.svg?style=social&label=Star&maxAge=14400"></a>
